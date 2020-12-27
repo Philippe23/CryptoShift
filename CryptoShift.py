@@ -47,7 +47,7 @@ def caesarCipher(opts):
 
 def printResults(opts):
 	print('input:  ' + opts.input)
-	print('otuput: ' + opts.output)
+	print('output: ' + opts.output)
 
 if __name__ == "__main__":
 	opts = parseArgs()
